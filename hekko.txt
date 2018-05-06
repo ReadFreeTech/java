@@ -1,5 +1,0 @@
-Public class milind {
-    Public static void main(string args[]){
-      int x=0; 
-}
- } 
